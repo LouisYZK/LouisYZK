@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 
 I'm Louis, programmer from China. I will be graduated in the summer of 2021.
 
-- [Blog](https://zhikai.top)
+- [Blog](http://zhikai.pro)
 
 #### Language&tools&Intrests
 
-[![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=c++&logoColor=while)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=while)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Python-orange?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
