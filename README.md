@@ -28,11 +28,11 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2021.
 
 #### Language&tools
 
-[![](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=C++&logoColor=while)](https://www.python.org/)
+[![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=C++&logoColor=while)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Golang-00add8?style=flat-square&logo=go&logoColor=white)](https://golang.org/)
 
 [![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=kubernetes&logoColor=white)](https://www.docker.com/)
+[![](https://img.shields.io/badge/-Kubernetes-2496ed?style=flat-square&logo=kubernetes&logoColor=white)](https://www.docker.com/)
 
-[![](https://img.shields.io/badge/-Python-yellow?style=flat-square&logo=visual-studio-code&logoColor=while)](https://www.python.org/)
+[![](https://img.shields.io/badge/-VSC-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=while)](https://www.python.org/)
