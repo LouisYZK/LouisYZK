@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### About me
 
-I'm Louis, programmer from China. I will be graduated in the summer of 2021.
+I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 
 - [Blog](http://zhikai.pro)
 
