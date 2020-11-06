@@ -52,6 +52,6 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 </p>
 
 <p align="right">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYZK&layout=compact&hide=html" alt="LouisYZK" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYZK&layout=compact&hide=html" alt="LouisYZK"  style="zoom:30%;" />
 </p>
 </div>
