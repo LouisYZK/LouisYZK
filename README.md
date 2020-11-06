@@ -51,7 +51,7 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="80" height="40"/>
 </p>
 
-<p align="right">
+<!-- <p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYZK&layout=compact&hide=html" alt="LouisYZK"  style="zoom:30%;" />
-</p>
+</p> -->
 </div>
