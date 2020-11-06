@@ -41,14 +41,14 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 [![](https://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux&logoColor=while)](https://www.python.org/) -->
 
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg
-" alt="cpp" width="40" height="40"/>
+<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg
+" alt="cpp" width="40" height="40"/> -->
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="80" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width=40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="80" height="40"/>
 </p>
 
 <p align="left">
