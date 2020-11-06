@@ -29,6 +29,7 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 <p align="left">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=LouisYZK.LouisYZK" alt="visitors"/>
 </p>
+
 #### Language&tools&Intrests
 
 <!-- [![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=while)](https://www.python.org/)
@@ -44,8 +45,8 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 " alt="cpp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="40" height="60"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width=40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="40" height="40"/>
 </p>
