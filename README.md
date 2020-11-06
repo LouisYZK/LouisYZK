@@ -40,6 +40,7 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 [![](https://img.shields.io/badge/-VisualStudioCode-blueviolet?style=flat-square&logo=visual-studio-code&logoColor=while)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Linux-red?style=flat-square&logo=linux&logoColor=while)](https://www.python.org/) -->
 
+<div align="left">
 <p align="left">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -50,6 +51,7 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="80" height="40"/>
 </p>
 
-<p align="left">
+<p align="right">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYZK&layout=compact&hide=html" alt="LouisYZK" />
 </p>
+</div>
