@@ -42,14 +42,14 @@ I'm Louis, programmer from China. I will be graduated in the summer of 2022.
 
 <div align="left">
 <p align="left">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/>
+<!-- <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-plain.svg" alt="cpp" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg" alt="docker" width="100" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width=40" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="vuejs" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="vuejs" width="80" height="50"/>
-</p>
+</p> -->
 
 <!-- <p align="right">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LouisYZK&layout=compact&hide=html" alt="LouisYZK"  style="zoom:30%;" />
