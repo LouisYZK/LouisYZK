@@ -13,12 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p>
+
+
+### Hi,it's Zhikai Yang 👋
+<p align='center'>
   <!-- <a href="https://count.getloli.com/"><img src="https://count.getloli.com/get/@github.llxlr.readme?theme=rule34" alt="github.llxlr.readme" /></a> -->
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=LouisYZK&theme=vue&show_icons=true&count_private=true&hide_title=true" style="zoom:30%;" />
 </p>
-
-### Hi,there 👋
 
 #### About me
 
