@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 - 🎓 XJTU(master's degree 西安交通大学 管理学院 统计与机器学习)
 - 🎓 CUG, Wuhan(bachelor's degree 中国地质大学，武汉)
-- 📖 [**LouisYZK's Blog Page**](https://zhikai.pro) Email: yangzhzhikai200t at 163 dot com
+- 📖 [**LouisYZK's Blog Page**](https://zhikai.pro)
 - 🔭 Machine Learning System/Engine 
 - ❤  Languages: C++ | Python | Go
 
