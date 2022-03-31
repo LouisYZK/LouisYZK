@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 #### About me
 
-- 🎓 XJTU(master's degree 西安交通大学 咸阳 管理学院 统计与机器学习)
-- 🎓 CUG, Wuhan(bachelor's degree 中国地质大学 武汉)
+- 🎓 XJTU(master's degree 西安交通大学 管理学院 统计与机器学习)
+- 🎓 CUGw,(bachelor's degree 中国地质大学(武汉))
 - 📖 [**LouisYZK's Blog Page**](http://zhikai.pro)
 - 🔭 Machine Learning System/Engine 
 - ❤  Languages: C++ | Python | Go
