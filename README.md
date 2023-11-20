@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🎓 XJTU(master 西安交通大学 管理学院 统计与机器学习)
 - 🎓 CUGw,(bachelor 中国地质大学(武汉))
-- 📖 [**LouisYZK's Blog Page**](http://zhikai.pro)
+- 📖 [**Zhihu link**](https://www.zhihu.com/people/louis-young-23)
 - 🔭 Machine Learning System/Engine 
 - ❤  Languages: C++ | Python | Go
 
