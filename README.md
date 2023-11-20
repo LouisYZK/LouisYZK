@@ -35,28 +35,28 @@ Here are some ideas to get you started:
 
 #### Language&tools&Intrests
 <p align="center">
-  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
   <img alt="cplusplus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" >
+  <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" >
 <!--   <img alt="Java" src="https://img.shields.io/badge/Java-cc0000?style=flat-square&logo=Java&logoColor=white" > -->
 <!--   <img alt="R" src="https://img.shields.io/badge/R-47A141?style=flat-square&logo=R&logoColor=white" > -->
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white" >
-  <img alt="Shell" src="https://img.shields.io/badge/Shell-777BB4?style=flat-square&logo=Shell&logoColor=white" >
+<!--   <img alt="Docker" src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white" > -->
+<!--   <img alt="Shell" src="https://img.shields.io/badge/Shell-777BB4?style=flat-square&logo=Shell&logoColor=white" > -->
 <!--   <img alt="CLion" src="https://img.shields.io/badge/CLion-black?style=flat-square&logo=CLion&logoColor=white" > -->
 <!--   <img alt="pycharm" src="https://img.shields.io/badge/PyCharm-black.svg?&style=flat-square&logo=PyCharm&logoColor=white" > -->
-  <img alt="cmake" src="https://img.shields.io/badge/CMake-blue?style=flat-square&logo=cmake&logoColor=white" >
-  <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" >
-  <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white" >
-  <img alt="keras" src="https://img.shields.io/badge/Keras-lightblue?style=flat-square&logo=Keras&logoColor=white" >
-  <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" >
+<!--   <img alt="cmake" src="https://img.shields.io/badge/CMake-blue?style=flat-square&logo=cmake&logoColor=white" > -->
+<!--   <img alt="pytorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" > -->
+<!--   <img alt="tensorflow" src="https://img.shields.io/badge/TensorFlow-orange?style=flat-square&logo=TensorFlow&logoColor=white" > -->
+<!--   <img alt="keras" src="https://img.shields.io/badge/Keras-lightblue?style=flat-square&logo=Keras&logoColor=white" > -->
+<!--   <img alt="numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" > -->
 <!--   <img alt="codecov" src="https://img.shields.io/badge/codecov-%23ff0077.svg?style=flat-square&logo=codecov&logoColor=white" > -->
-  <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" >
-  <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" >
-  <img alt="github actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" >
-  <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" >
-  <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white">
+<!--   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" > -->
+<!--   <img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" > -->
+<!--   <img alt="github actions" src="https://img.shields.io/badge/GH_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" > -->
+<!--   <img alt="html" src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" > -->
+<!--   <img alt="MacOS" src="https://img.shields.io/badge/MacOS-000000?style=flat-square&logo=apple&logoColor=white"> -->
 <!--   <img alt="Windows" src="https://img.shields.io/badge/Windows-blue.svg?style=flat-square&logo=windows&logoColor=white"> -->
-  <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" >
-  <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" >
+<!--   <img alt="linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" > -->
+<!--   <img alt="ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white" > -->
 </p> 
 <!-- [![](https://img.shields.io/badge/-C++-blue?style=flat-square&logo=cplusplus&logoColor=while)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Python-orange?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
